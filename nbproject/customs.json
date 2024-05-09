@@ -1,0 +1,11 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {},
+        "th:action": {},
+        "th:each": {},
+        "th:field": {},
+        "th:href": {},
+        "th:value": {}
+    }
+}

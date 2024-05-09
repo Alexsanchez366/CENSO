@@ -1,0 +1,59 @@
+#navbarSupportedContent{
+    justify-content:flex-end !important;
+    
+}
+
+.navbar{
+    justify-content: center !important;
+    background-color: rgb(235, 235, 237) !important;
+}
+
+.navbar-brand{
+    color: peachpuff !important;
+}
+
+
+
+th{
+    background-color: rgb(10, 165, 173) !important;
+    font-family: cursive !important;
+    text-transform: uppercase;
+    
+    
+}
+
+td{
+    background-color: rgb(10, 165, 173) !important;
+    font-family: cursive !important;
+    color: rgb(218, 255, 145) !important;
+    text-transform: uppercase;
+    margin-top: 5px !important;
+}
+
+
+
+.total {
+    font-family: Arial, sans-serif; 
+    font-size: 18px; 
+    font-weight: bold; 
+    color: #fffbfb; 
+   
+}
+
+.total span {
+    color: #ffffff; 
+
+}
+
+
+
+body{
+    background-color: rgb(21, 197, 176) !important;
+}
+
+img{
+    height: 95px;
+    width: 350px;
+    border-radius: 15px;
+    
+}
